@@ -1,5 +1,5 @@
 from numpy import *
-
+# A code to multiply two matrices
 p = int(input("Enter no of rows in first matrix : "))
 q = int(input("Enter no of columns in first matrix : "))
 r = int(input("Enter no of rows in second matrix : "))
