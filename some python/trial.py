@@ -1,5 +1,6 @@
 from numpy import *
 from numpy import array
+# Quick sort algorithm
 class Quick:
     #def __init__(self):
         #self.a1=array([10,9,8,7,6,5,4,3,2,1])
